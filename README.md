@@ -12,18 +12,15 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) 
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FCA121?style=flat-square&logo=chartdotjs&logoColor=white)
 
-## 🎓 About Me
-As a fresh graduate, I am passionate about frontend development and eager to learn and grow in the field. I enjoy creating user-friendly interfaces and working with modern web technologies. 
-
 ### Areas of Interest
 - Developing responsive web applications
 - Exploring new JavaScript frameworks and libraries
 - Enhancing user experience through design and performance optimization
 
 ### Software Concepts
-- Data Structures & Algorithms (DSA)
-- Object-Oriented Programming (OOP)
-- Problem Solving
+![DSA](https://img.shields.io/badge/-Data%20Structures%20&%20Algorithms-4F8BF9?style=flat-square) 
+![OOP](https://img.shields.io/badge/-Object--Oriented%20Programming-FF5733?style=flat-square) 
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FFC300?style=flat-square) 
 
 ## 📫 Let's Connect
 Feel free to reach out on [LinkedIn](#) or [Twitter](#). I'm open to networking, collaborations, and new opportunities!
