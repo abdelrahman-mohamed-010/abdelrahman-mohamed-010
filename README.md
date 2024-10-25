@@ -21,6 +21,3 @@
 ![DSA](https://img.shields.io/badge/-Data%20Structures%20&%20Algorithms-4F8BF9?style=flat-square) 
 ![OOP](https://img.shields.io/badge/-Object--Oriented%20Programming-FF5733?style=flat-square) 
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FFC300?style=flat-square) 
-
-## 📫 Let's Connect
-Feel free to reach out on [LinkedIn](#) or [Twitter](#). I'm open to networking, collaborations, and new opportunities!
