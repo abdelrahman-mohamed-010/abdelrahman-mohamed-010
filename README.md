@@ -11,6 +11,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) 
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FCA121?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
@@ -18,7 +19,12 @@
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/-MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
+![Strapi](https://img.shields.io/badge/-Strapi-2E7C30?style=for-the-badge&logo=strapi&logoColor=white)
+![Accessibility](https://img.shields.io/badge/-Accessibility%20(a11y)-A4C639?style=for-the-badge&logo=accessible-icon&logoColor=white)
+![Progressive Web Apps](https://img.shields.io/badge/-PWA-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![StyleX](https://img.shields.io/badge/-StyleX-3C3C3D?style=for-the-badge&logo=react&logoColor=white)
+![Shakra UI](https://img.shields.io/badge/-Shakra%20UI-4A4A4A?style=for-the-badge&logo=react&logoColor=white)
 
 
 
