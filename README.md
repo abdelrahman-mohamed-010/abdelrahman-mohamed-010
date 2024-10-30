@@ -23,7 +23,6 @@
 ![Accessibility](https://img.shields.io/badge/-Accessibility%20(a11y)-A4C639?style=for-the-badge&logo=accessible-icon&logoColor=white)
 ![Progressive Web Apps](https://img.shields.io/badge/-PWA-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![StyleX](https://img.shields.io/badge/-StyleX-3C3C3D?style=for-the-badge&logo=react&logoColor=white)
 ![Shakra UI](https://img.shields.io/badge/-Shakra%20UI-4A4A4A?style=for-the-badge&logo=react&logoColor=white)
 
 
